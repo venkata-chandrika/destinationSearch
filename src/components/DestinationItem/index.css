@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.image {
+  width: 300px;
+  border-radius: 10px;
+  max-width: 60%;
+}
+.text {
+  color: #252627;
+  font-size: 22px;
+}
